@@ -1,2 +1,4 @@
 terraform.tfvars
 windows_key*
+.terraform/
+terraform.tfstate*
