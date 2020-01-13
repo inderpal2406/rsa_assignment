@@ -11,6 +11,7 @@ variable "AWS_REGION" {
   default = "ap-southeast-1"
 }
 
-variable "PUBLIC_KEY" {
-  type = string
+variable "PATH_TO_PUBLIC_KEY" {
+  type    = string
+  default = "/home/ubuntu/rsa_assignment/windows_key.pub"
 }
