@@ -1,4 +1,4 @@
-# rsa_assignment
+# terraform_assignment
 RSA terraform assignment
 
 ## Description
