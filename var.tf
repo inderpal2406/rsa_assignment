@@ -13,5 +13,5 @@ variable "AWS_REGION" {
 
 variable "PATH_TO_PUBLIC_KEY" {
   type    = string
-  default = "/home/ubuntu/rsa_assignment/windows_key.pub"
+  default = "/home/ubuntu/terraform_assignment/windows_key.pub"
 }
